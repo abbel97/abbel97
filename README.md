@@ -14,5 +14,4 @@ I'm Abel, a Software Engineering Student, currently learning and building in Ful
 
 ## 🌐 Connect With Me
 - [LinkedIn](www.linkedin.com/in/abel-t-b3a3a6376)
-- [GitHub](https://github.com/abbel97)
 - Email: abeltamerat1997@gmail.com
