@@ -2,7 +2,7 @@
 
 I'm Abel Tamerat, a Software Engineering Student, currently learning and building in Full-Stack Development, Data Science, AI/ML and Cybersecurity.
 
-🚀 Skills
+## 🚀 Skills
 Languages: HTML, CSS, JavaScript, Python, Dart, Java, C++
 Frameworks & Libraries: React, Node.js, Express.js
 Databases: MySQL, PostgreSQL, MongoDB
